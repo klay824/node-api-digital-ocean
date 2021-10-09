@@ -9,8 +9,8 @@ exports.sendEmail = emailData => {
         secure: false,
         requireTLS: true,
         auth: {
-            user: 'kchadwell0226@gmail.com',
-            pass: 'yhgivlwlviukfjrp'
+            user: 'kchadwellwebdev@gmail.com',
+            pass: 'mauazsymousybczm'
         }
     });
     return (
